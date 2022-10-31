@@ -1,0 +1,22 @@
+- argumentumok értelmezése:
+    - fájlnév
+    - mód: [tömörítés, kitömörítés]
+
+- fájlkezelés:
+    - létezőség ellenőrzés
+    - méret nagyobb-e 0-nál
+    - beolvasás:
+        - tömörítés mód
+        - kitömörítés mód
+
+- tömörítés
+
+- kitömörítés
+
+HUFFMAN 0123456789
+ABCDEF 0123456789
+ABCDEF ZOTTFFSSEN
+
+AB A0 04 88
+
+CA FE BA BE
